@@ -1,4 +1,5 @@
 Hello World!
 
-
 Merge line 4
+
+Merged line 3
